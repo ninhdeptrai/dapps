@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Blockchain/Ex1.sol": "MyContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Blockchain/Ex1.sol": {
+			"keccak256": "0x201cc7048d093d0d668ac67b1056565f519de269929e15c6bd845dbc2e297521",
+			"urls": [
+				"bzz-raw://52b9df5ed77067eed84735f995ed5ad6d8eea54cc630073b53dca29c8e91b683",
+				"dweb:/ipfs/Qmbupc8GGLTh4WACUFUg12GHNrNYRqaniudWnbPb8Sy1u6"
+			]
+		}
+	},
+	"version": 1
+}
